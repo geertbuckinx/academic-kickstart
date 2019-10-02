@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Geert Buckinx
 
 # Username (this should match the folder name)
 authors:
@@ -10,18 +10,18 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Post-doctoral researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: KULeuven
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include computational fluid dynamics and heat transfer
 
 interests:
-- Artificial Intelligence
+- Macro-scale modelling of flow and heat transfer 
 - Computational Linguistics
 - Information Retrieval
 
